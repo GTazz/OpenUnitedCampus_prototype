@@ -1043,7 +1043,7 @@ h1 {
 
 .page-section p {
     color: #8b949e;
-    max-width: 900px;
+    max-width: 100%;
 }
 
 .page-section p.lead {
@@ -1056,12 +1056,14 @@ h1 {
     border-radius: 6px;
     padding: 16px;
     margin-bottom: 32px;
+    max-width: 100%;
 }
 
 .context-box p {
     color: #c9d1d9;
     margin: 0;
     font-size: 14px;
+    max-width: 100%;
 }
 
 .login-header p {
